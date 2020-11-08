@@ -45,7 +45,7 @@ while True:
             input()
             system("cls")
     else:
-        languaje.find("en_")
+        language.find("en_")
         if True:
             try:
                 print(Back.GREEN + "F_calculatorNC")
